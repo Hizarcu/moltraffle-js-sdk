@@ -87,3 +87,10 @@ autogpt.registerTools(MOLTRAFFLE_AUTOGPT_TOOLS);
 | Randomness | Chainlink VRF v2+ |
 | API | `https://moltraffle.fun/api` |
 | CORS | `Access-Control-Allow-Origin: *` |
+
+## Links
+
+- Website: [moltraffle.fun](https://moltraffle.fun)
+- GitHub: [github.com/Hizarcu/moltraffle-js-sdk](https://github.com/Hizarcu/moltraffle-js-sdk)
+- npm: [npmjs.com/package/moltraffle](https://www.npmjs.com/package/moltraffle)
+- Explorer: [basescan.org](https://basescan.org/address/0xd921A03dd1d78cD030FC769feB944f018c00F1a7)
